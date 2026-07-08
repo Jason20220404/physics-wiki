@@ -11,10 +11,12 @@
             "id": "620a52644871d450",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新分頁"
+              "type": "pdf",
+              "state": {
+                "file": "raw/sakurai-mqm-p29-31.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "sakurai-mqm-p29-31"
             }
           }
         ]
@@ -90,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "raw/sakurai-mqm-p29-31.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向連結"
+              "title": "sakurai-mqm-p29-31 的反向連結"
             }
           },
           {
@@ -108,11 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "raw/sakurai-mqm-p29-31.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "對外連結"
+              "title": "sakurai-mqm-p29-31 的對外連結"
             }
           },
           {
@@ -150,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "raw/sakurai-mqm-p29-31.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大綱"
+              "title": "sakurai-mqm-p29-31 的大綱"
             }
           }
         ]
@@ -177,5 +182,25 @@
     }
   },
   "active": "620a52644871d450",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "floor.md",
+    "floor.md.tmp.5744.f8ff9894c7b5",
+    "raw/sakurai-mqm-p29-31-original.md",
+    "raw/sakurai-mqm-p29-31.pdf",
+    "index.md",
+    "index.md.tmp.5744.a97f1e03a1bb",
+    "index.md.tmp.5744.82a321c28de9",
+    "ref/sakurai-mqm-p29-31.md",
+    "raw/sakurai-mqm-p29-31-p29.png",
+    "raw/sakurai-mqm-p29-31-p31.png",
+    "raw/sakurai-mqm-p29-31-p30.png",
+    "tools/strip_check.py",
+    "tools/strip_check.py.tmp.5744.0be2e947bce0",
+    "tools",
+    "raw/sakurai-mqm-p29-31-original.md.tmp.5744.a31370ed67af",
+    "log.md",
+    "CLAUDE.md",
+    "SETUP.md",
+    "output/README.md"
+  ]
 }
